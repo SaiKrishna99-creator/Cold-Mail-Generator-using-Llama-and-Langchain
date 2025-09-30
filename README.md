@@ -5,7 +5,9 @@
 <br>
 <b>Consider the following situation:</b>
 <br>
-<p>Nike is investing time and money in the hiring, onboarding, training, and other processes in order to find a Principal Software Engineer.</p>
+<p>Adidas is investing time and money in the hiring, onboarding, training, and so on to find a Software Developer</p>
 <br>
-<p>Nike can hire a professional software development engineer from Atliq, a software development business. Therefore, Mohan, the business development executive from Atliq, will send Nike a chilly email.</p>
+<p>Adidas can recruit a professional software developer from (just for example) Company X, a software development firm. Hence, Jack, the business development executive from company X, will send Adidas a chilly email.</p>
+<br>
+<br>
 <p>I have developed this in the google colab environment because my laptop is limited in processing capacity for LLMs.</p>
