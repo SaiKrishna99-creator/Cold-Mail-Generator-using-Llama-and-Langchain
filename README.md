@@ -5,6 +5,7 @@
 <br>
 <b>Consider the following situation:</b>
 <br>
+<br>
 <p>Adidas is investing time and money in the hiring, onboarding, training, and so on to find a Software Developer</p>
 <br>
 <p>Adidas can recruit a professional software developer from (just for example) Company X, a software development firm. Hence, Jack, the business development executive from company X, will send Adidas a chilly email.</p>
