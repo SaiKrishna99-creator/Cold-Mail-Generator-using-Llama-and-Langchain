@@ -11,4 +11,3 @@
 <p>Adidas can recruit a professional software developer from (just for example) Company X, a software development firm. Hence, Jack, the business development executive from company X, will send Adidas a chilly email.</p>
 <br>
 <br>
-<p>I have developed this in the google colab environment because my laptop is limited in processing capacity for LLMs.</p>
